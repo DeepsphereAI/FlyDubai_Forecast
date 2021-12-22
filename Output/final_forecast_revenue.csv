@@ -74,7 +74,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-03-14,FlyDubai,Chennai,Dubai,Business,First Flyer,329718.21245989803
 2021-03-15,FlyDubai,Chennai,Dubai,Business,First Flyer,317847.01611750806
 2021-03-16,FlyDubai,Chennai,Dubai,Business,First Flyer,328520.734717237
-2021-03-17,FlyDubai,Chennai,Dubai,Business,First Flyer,324480.68856380135
+2021-03-17,FlyDubai,Chennai,Dubai,Business,First Flyer,324480.6885638013
 2021-03-18,FlyDubai,Chennai,Dubai,Business,First Flyer,291962.9021523674
 2021-03-19,FlyDubai,Chennai,Dubai,Business,First Flyer,306838.4223922734
 2021-03-20,FlyDubai,Chennai,Dubai,Business,First Flyer,311587.3126350331
@@ -182,7 +182,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-06-30,FlyDubai,Chennai,Dubai,Business,First Flyer,333652.1876718304
 2021-07-01,FlyDubai,Chennai,Dubai,Business,First Flyer,301134.3905760957
 2021-07-02,FlyDubai,Chennai,Dubai,Business,First Flyer,316009.9001315896
-2021-07-03,FlyDubai,Chennai,Dubai,Business,First Flyer,320758.7796899421
+2021-07-03,FlyDubai,Chennai,Dubai,Business,First Flyer,320758.77968994214
 2021-07-04,FlyDubai,Chennai,Dubai,Business,First Flyer,339501.1683283246
 2021-07-05,FlyDubai,Chennai,Dubai,Business,First Flyer,327629.9613015409
 2021-07-06,FlyDubai,Chennai,Dubai,Business,First Flyer,338303.66921691375
@@ -192,7 +192,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-07-10,FlyDubai,Chennai,Dubai,Business,First Flyer,321370.20329976594
 2021-07-11,FlyDubai,Chennai,Dubai,Business,First Flyer,340112.59166380926
 2021-07-12,FlyDubai,Chennai,Dubai,Business,First Flyer,328241.3843626786
-2021-07-13,FlyDubai,Chennai,Dubai,Business,First Flyer,338915.0920036906
+2021-07-13,FlyDubai,Chennai,Dubai,Business,First Flyer,338915.09200369066
 2021-07-14,FlyDubai,Chennai,Dubai,Business,First Flyer,334875.03489149973
 2021-07-15,FlyDubai,Chennai,Dubai,Business,First Flyer,302357.2375214136
 2021-07-16,FlyDubai,Chennai,Dubai,Business,First Flyer,317232.7468025394
@@ -232,7 +232,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-08-19,FlyDubai,Chennai,Dubai,Business,First Flyer,305414.3508310654
 2021-08-20,FlyDubai,Chennai,Dubai,Business,First Flyer,320289.86008972576
 2021-08-21,FlyDubai,Chennai,Dubai,Business,First Flyer,325038.7393512532
-2021-08-22,FlyDubai,Chennai,Dubai,Business,First Flyer,343781.1276927746
+2021-08-22,FlyDubai,Chennai,Dubai,Business,First Flyer,343781.1276927745
 2021-08-23,FlyDubai,Chennai,Dubai,Business,First Flyer,331909.92036328214
 2021-08-24,FlyDubai,Chennai,Dubai,Business,First Flyer,342583.6279758736
 2021-08-25,FlyDubai,Chennai,Dubai,Business,First Flyer,338543.57083528116
@@ -334,7 +334,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-11-29,FlyDubai,Chennai,Dubai,Business,First Flyer,340469.83660564886
 2021-11-30,FlyDubai,Chennai,Dubai,Business,First Flyer,351143.54421651474
 2021-12-01,FlyDubai,Chennai,Dubai,Business,First Flyer,347103.4870741843
-2021-12-02,FlyDubai,Chennai,Dubai,Business,First Flyer,314585.6896738514
+2021-12-02,FlyDubai,Chennai,Dubai,Business,First Flyer,314585.6896738515
 2021-12-03,FlyDubai,Chennai,Dubai,Business,First Flyer,329461.1989248112
 2021-12-04,FlyDubai,Chennai,Dubai,Business,First Flyer,334210.07817874366
 2021-12-05,FlyDubai,Chennai,Dubai,Business,First Flyer,352952.4665125513
@@ -382,7 +382,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-01-16,FlyDubai,Chennai,Dubai,Business,First Flyer,356621.0019665309
 2022-01-17,FlyDubai,Chennai,Dubai,Business,First Flyer,344749.7946352492
 2022-01-18,FlyDubai,Chennai,Dubai,Business,First Flyer,355423.50224614184
-2022-01-19,FlyDubai,Chennai,Dubai,Business,First Flyer,351383.44510375796
+2022-01-19,FlyDubai,Chennai,Dubai,Business,First Flyer,351383.4451037579
 2022-01-20,FlyDubai,Chennai,Dubai,Business,First Flyer,318865.64770342957
 2022-01-21,FlyDubai,Chennai,Dubai,Business,First Flyer,333741.1569544421
 2022-01-22,FlyDubai,Chennai,Dubai,Business,First Flyer,338490.03620830906
@@ -412,7 +412,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-02-15,FlyDubai,Chennai,Dubai,Business,First Flyer,357869.192548722
 2022-02-16,FlyDubai,Chennai,Dubai,Business,First Flyer,353829.1354063311
 2022-02-17,FlyDubai,Chennai,Dubai,Business,First Flyer,321311.3380060897
-2022-02-18,FlyDubai,Chennai,Dubai,Business,First Flyer,336186.8472570609
+2022-02-18,FlyDubai,Chennai,Dubai,Business,First Flyer,336186.84725706093
 2022-02-19,FlyDubai,Chennai,Dubai,Business,First Flyer,340935.7265109932
 2022-02-20,FlyDubai,Chennai,Dubai,Business,First Flyer,359678.1148447892
 2022-02-21,FlyDubai,Chennai,Dubai,Business,First Flyer,347806.90751350083
@@ -466,8 +466,8 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-04-10,FlyDubai,Chennai,Dubai,Business,First Flyer,363958.072874434
 2022-04-11,FlyDubai,Chennai,Dubai,Business,First Flyer,352086.8655431011
 2022-04-12,FlyDubai,Chennai,Dubai,Business,First Flyer,362760.5731540186
-2022-04-13,FlyDubai,Chennai,Dubai,Business,First Flyer,358720.5160116448
-2022-04-14,FlyDubai,Chennai,Dubai,Business,First Flyer,326202.71861134336
+2022-04-13,FlyDubai,Chennai,Dubai,Business,First Flyer,358720.51601164485
+2022-04-14,FlyDubai,Chennai,Dubai,Business,First Flyer,326202.7186113434
 2022-04-15,FlyDubai,Chennai,Dubai,Business,First Flyer,341078.2278623669
 2022-04-16,FlyDubai,Chennai,Dubai,Business,First Flyer,345827.10711624613
 2022-04-17,FlyDubai,Chennai,Dubai,Business,First Flyer,364569.49545011873
@@ -670,7 +670,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-10-31,FlyDubai,Chennai,Dubai,Business,First Flyer,369818.120237267
 2022-11-01,FlyDubai,Chennai,Dubai,Business,First Flyer,380491.8278480995
 2022-11-02,FlyDubai,Chennai,Dubai,Business,First Flyer,376451.77070573205
-2022-11-03,FlyDubai,Chennai,Dubai,Business,First Flyer,343933.9733055007
+2022-11-03,FlyDubai,Chennai,Dubai,Business,First Flyer,343933.97330550075
 2022-11-04,FlyDubai,Chennai,Dubai,Business,First Flyer,358809.482556523
 2022-11-05,FlyDubai,Chennai,Dubai,Business,First Flyer,363558.3618103883
 2022-11-06,FlyDubai,Chennai,Dubai,Business,First Flyer,382300.75014422263
@@ -738,7 +738,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-01-07,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,449122.11677679716
 2021-01-08,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,451569.9792039599
 2021-01-09,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,458564.6387589862
-2021-01-10,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,436354.1579607061
+2021-01-10,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,436354.15796070604
 2021-01-11,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,445169.0757502249
 2021-01-12,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,437039.2502575473
 2021-01-13,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,468526.7050295118
@@ -807,7 +807,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-03-17,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,461465.77536683716
 2021-03-18,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,441180.1003594728
 2021-03-19,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,443644.05267700885
-2021-03-20,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,450654.80212239444
+2021-03-20,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,450654.8021223945
 2021-03-21,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,428460.41121448623
 2021-03-22,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,437291.41889446107
 2021-03-23,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,429177.68329215463
@@ -1033,7 +1033,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-10-29,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,418538.57752739935
 2021-10-30,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,425549.3270029807
 2021-10-31,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,403354.9361251973
-2021-11-01,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,412185.94383533596
+2021-11-01,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,412185.943835336
 2021-11-02,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,404072.2082631563
 2021-11-03,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,435575.7529557018
 2021-11-04,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,415290.0779785299
@@ -1144,7 +1144,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-02-17,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,403521.86995924154
 2022-02-18,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,405985.8223069228
 2022-02-19,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,412996.5717824468
-2022-02-20,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,390802.180904667
+2022-02-20,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,390802.18090466695
 2022-02-21,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,399633.1886148033
 2022-02-22,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,391519.45304265455
 2022-02-23,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,423022.9977352144
@@ -1233,7 +1233,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-05-17,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,382104.8866272743
 2022-05-18,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,413608.4313197981
 2022-05-19,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,393322.75634256675
-2022-05-20,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,395786.70869027264
+2022-05-20,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,395786.7086902727
 2022-05-21,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,402797.4581657889
 2022-05-22,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,380603.06728798785
 2022-05-23,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,389434.07499813946
@@ -1243,7 +1243,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-05-27,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,395002.1614889761
 2022-05-28,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,402012.91096459475
 2022-05-29,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,379818.52008679765
-2022-05-30,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,388649.5277968855
+2022-05-30,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,388649.52779688546
 2022-05-31,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,380535.7922247454
 2022-06-01,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,412039.33691726247
 2022-06-02,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,391753.6619400586
@@ -1305,7 +1305,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-07-28,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,385477.2843297097
 2022-07-29,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,387941.23667743406
 2022-07-30,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,394951.98615299555
-2022-07-31,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,372757.5952752226
+2022-07-31,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,372757.59527522256
 2022-08-01,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,381588.6029853367
 2022-08-02,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,373474.8674131982
 2022-08-03,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,404978.4121057248
@@ -1334,7 +1334,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-08-26,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,384803.0478723113
 2022-08-27,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,391813.7973479311
 2022-08-28,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,369619.40647011856
-2022-08-29,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,378450.4141802071
+2022-08-29,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,378450.41418020707
 2022-08-30,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,370336.6786080503
 2022-08-31,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,401840.2233006084
 2022-09-01,FlyDubai,Chennai,Dubai,Business,Frequent Flyer,381554.5483233838
@@ -1494,7 +1494,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-02-02,FlyDubai,Chennai,Dubai,Business,Rare Flyer,304544.9878012969
 2021-02-03,FlyDubai,Chennai,Dubai,Business,Rare Flyer,324014.0996726261
 2021-02-04,FlyDubai,Chennai,Dubai,Business,Rare Flyer,319030.9578066902
-2021-02-05,FlyDubai,Chennai,Dubai,Business,Rare Flyer,332798.5482519555
+2021-02-05,FlyDubai,Chennai,Dubai,Business,Rare Flyer,332798.54825195554
 2021-02-06,FlyDubai,Chennai,Dubai,Business,Rare Flyer,300370.08055414836
 2021-02-07,FlyDubai,Chennai,Dubai,Business,Rare Flyer,304645.5476085085
 2021-02-08,FlyDubai,Chennai,Dubai,Business,Rare Flyer,300374.5766039667
@@ -2021,7 +2021,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-07-14,FlyDubai,Chennai,Dubai,Business,Rare Flyer,309101.9465736924
 2022-07-15,FlyDubai,Chennai,Dubai,Business,Rare Flyer,322869.53213453945
 2022-07-16,FlyDubai,Chennai,Dubai,Business,Rare Flyer,290441.05955370935
-2022-07-17,FlyDubai,Chennai,Dubai,Business,Rare Flyer,294716.5217249486
+2022-07-17,FlyDubai,Chennai,Dubai,Business,Rare Flyer,294716.52172494854
 2022-07-18,FlyDubai,Chennai,Dubai,Business,Rare Flyer,290445.54583725025
 2022-07-19,FlyDubai,Chennai,Dubai,Business,Rare Flyer,294483.5934344288
 2022-07-20,FlyDubai,Chennai,Dubai,Business,Rare Flyer,313952.7004213638
@@ -2032,7 +2032,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-07-25,FlyDubai,Chennai,Dubai,Business,Rare Flyer,290313.1529345401
 2022-07-26,FlyDubai,Chennai,Dubai,Business,Rare Flyer,294351.2005317549
 2022-07-27,FlyDubai,Chennai,Dubai,Business,Rare Flyer,313820.3075186054
-2022-07-28,FlyDubai,Chennai,Dubai,Business,Rare Flyer,308837.16076827823
+2022-07-28,FlyDubai,Chennai,Dubai,Business,Rare Flyer,308837.1607682782
 2022-07-29,FlyDubai,Chennai,Dubai,Business,Rare Flyer,322604.7463291114
 2022-07-30,FlyDubai,Chennai,Dubai,Business,Rare Flyer,290176.2737482119
 2022-07-31,FlyDubai,Chennai,Dubai,Business,Rare Flyer,294451.7359194627
@@ -2183,7 +2183,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-12-23,FlyDubai,Chennai,Dubai,Business,Rare Flyer,319824.49537182215
 2022-12-24,FlyDubai,Chennai,Dubai,Business,Rare Flyer,287396.02279089094
 2022-12-25,FlyDubai,Chennai,Dubai,Business,Rare Flyer,291671.4849621766
-2022-12-26,FlyDubai,Chennai,Dubai,Business,Rare Flyer,287400.50907451194
+2022-12-26,FlyDubai,Chennai,Dubai,Business,Rare Flyer,287400.509074512
 2022-12-27,FlyDubai,Chennai,Dubai,Business,Rare Flyer,291438.55667166197
 2022-12-28,FlyDubai,Chennai,Dubai,Business,Rare Flyer,310907.6636586268
 2022-12-29,FlyDubai,Chennai,Dubai,Business,Rare Flyer,305924.516908226
@@ -2949,7 +2949,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-01-28,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,575443.41488181
 2021-01-29,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,573462.6661699802
 2021-01-30,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,568004.4609574755
-2021-01-31,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,552865.2833874968
+2021-01-31,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,552865.2833874967
 2021-02-01,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,554015.8420684543
 2021-02-02,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,564676.017863706
 2021-02-03,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,576745.1213463028
@@ -2970,7 +2970,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-02-18,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,576196.4997777132
 2021-02-19,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,574215.7510552255
 2021-02-20,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,568757.5458321081
-2021-02-21,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,553618.3682514864
+2021-02-21,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,553618.3682514863
 2021-02-22,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,554768.9269217956
 2021-02-23,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,565429.1027063564
 2021-02-24,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,577498.206178349
@@ -3373,7 +3373,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-03-28,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,569077.1711752431
 2022-03-29,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,579737.3452300864
 2022-03-30,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,591806.4469721678
-2022-03-31,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,590755.7670603173
+2022-03-31,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,590755.7670603172
 2022-04-01,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,588775.0166080255
 2022-04-02,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,583316.8096551086
 2022-04-03,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,568177.6303446203
@@ -3427,12 +3427,12 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-05-21,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,585073.9224241752
 2022-05-22,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,569934.7431136889
 2022-05-23,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,571085.300054178
-2022-05-24,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,581745.4741090091
+2022-05-24,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,581745.474109009
 2022-05-25,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,593814.5758511279
 2022-05-26,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,592763.8959392814
 2022-05-27,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,590783.1454869736
 2022-05-28,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,585324.9385340454
-2022-05-29,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,570185.7592235956
+2022-05-29,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,570185.7592235955
 2022-05-30,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,571336.3161640519
 2022-05-31,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,581996.490218885
 2022-06-01,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,594065.5919610064
@@ -3597,7 +3597,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-11-07,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,577109.6866910435
 2022-11-08,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,587769.860745822
 2022-11-09,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,599838.9624879926
-2022-11-10,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,598788.2825761383
+2022-11-10,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,598788.2825761382
 2022-11-11,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,596807.5321238296
 2022-11-12,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,591349.3251709257
 2022-11-13,FlyDubai,Chennai,Dubai,Economy,Frequent Flyer,576210.1458604371
@@ -3668,7 +3668,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-01-17,FlyDubai,Chennai,Dubai,Economy,Rare Flyer,476775.9475123963
 2021-01-18,FlyDubai,Chennai,Dubai,Economy,Rare Flyer,466668.19270306226
 2021-01-19,FlyDubai,Chennai,Dubai,Economy,Rare Flyer,473871.1512830443
-2021-01-20,FlyDubai,Chennai,Dubai,Economy,Rare Flyer,470880.9246355267
+2021-01-20,FlyDubai,Chennai,Dubai,Economy,Rare Flyer,470880.92463552667
 2021-01-21,FlyDubai,Chennai,Dubai,Economy,Rare Flyer,479841.2501263917
 2021-01-22,FlyDubai,Chennai,Dubai,Economy,Rare Flyer,475097.8384850552
 2021-01-23,FlyDubai,Chennai,Dubai,Economy,Rare Flyer,460538.5713897649
@@ -3749,7 +3749,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-04-08,FlyDubai,Chennai,Dubai,Economy,Rare Flyer,480988.17168321105
 2021-04-09,FlyDubai,Chennai,Dubai,Economy,Rare Flyer,476244.7605690283
 2021-04-10,FlyDubai,Chennai,Dubai,Economy,Rare Flyer,461685.4940009701
-2021-04-11,FlyDubai,Chennai,Dubai,Economy,Rare Flyer,478027.136246282
+2021-04-11,FlyDubai,Chennai,Dubai,Economy,Rare Flyer,478027.1362462821
 2021-04-12,FlyDubai,Chennai,Dubai,Economy,Rare Flyer,467919.38196415856
 2021-04-13,FlyDubai,Chennai,Dubai,Economy,Rare Flyer,475122.3410713445
 2021-04-14,FlyDubai,Chennai,Dubai,Economy,Rare Flyer,472132.11495100794
@@ -3804,7 +3804,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-06-02,FlyDubai,Chennai,Dubai,Economy,Rare Flyer,472866.84464366786
 2021-06-03,FlyDubai,Chennai,Dubai,Economy,Rare Flyer,481827.59667108586
 2021-06-04,FlyDubai,Chennai,Dubai,Economy,Rare Flyer,477084.6115662275
-2021-06-05,FlyDubai,Chennai,Dubai,Economy,Rare Flyer,462525.77100750856
+2021-06-05,FlyDubai,Chennai,Dubai,Economy,Rare Flyer,462525.7710075085
 2021-06-06,FlyDubai,Chennai,Dubai,Economy,Rare Flyer,478867.83926209813
 2021-06-07,FlyDubai,Chennai,Dubai,Economy,Rare Flyer,468760.5109892921
 2021-06-08,FlyDubai,Chennai,Dubai,Economy,Rare Flyer,475963.8961058069
@@ -4037,7 +4037,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-01-21,FlyDubai,Chennai,Dubai,Economy,Rare Flyer,481248.22611876973
 2022-01-22,FlyDubai,Chennai,Dubai,Economy,Rare Flyer,466692.4943258052
 2022-01-23,FlyDubai,Chennai,Dubai,Economy,Rare Flyer,483037.67134619236
-2022-01-24,FlyDubai,Chennai,Dubai,Economy,Rare Flyer,472933.4518391107
+2022-01-24,FlyDubai,Chennai,Dubai,Economy,Rare Flyer,472933.45183911064
 2022-01-25,FlyDubai,Chennai,Dubai,Economy,Rare Flyer,480139.94572135236
 2022-01-26,FlyDubai,Chennai,Dubai,Economy,Rare Flyer,477153.2543760886
 2022-01-27,FlyDubai,Chennai,Dubai,Economy,Rare Flyer,486117.11516922613
@@ -4409,7 +4409,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-01-28,FlyDubai,Chennai,Dubai,First Class,First Flyer,406857.5351406524
 2021-01-29,FlyDubai,Chennai,Dubai,First Class,First Flyer,403627.1894753726
 2021-01-30,FlyDubai,Chennai,Dubai,First Class,First Flyer,393270.16090036713
-2021-01-31,FlyDubai,Chennai,Dubai,First Class,First Flyer,387165.88647777797
+2021-01-31,FlyDubai,Chennai,Dubai,First Class,First Flyer,387165.886477778
 2021-02-01,FlyDubai,Chennai,Dubai,First Class,First Flyer,423938.1310774211
 2021-02-02,FlyDubai,Chennai,Dubai,First Class,First Flyer,398373.4220536737
 2021-02-03,FlyDubai,Chennai,Dubai,First Class,First Flyer,406945.751502766
@@ -4502,7 +4502,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-05-01,FlyDubai,Chennai,Dubai,First Class,First Flyer,402948.4632394499
 2021-05-02,FlyDubai,Chennai,Dubai,First Class,First Flyer,396844.1888029104
 2021-05-03,FlyDubai,Chennai,Dubai,First Class,First Flyer,433616.43338874145
-2021-05-04,FlyDubai,Chennai,Dubai,First Class,First Flyer,408051.7243510855
+2021-05-04,FlyDubai,Chennai,Dubai,First Class,First Flyer,408051.72435108543
 2021-05-05,FlyDubai,Chennai,Dubai,First Class,First Flyer,416624.0537863318
 2021-05-06,FlyDubai,Chennai,Dubai,First Class,First Flyer,417280.32225461
 2021-05-07,FlyDubai,Chennai,Dubai,First Class,First Flyer,414049.97657540283
@@ -4650,7 +4650,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-09-26,FlyDubai,Chennai,Dubai,First Class,First Flyer,412478.5152326938
 2021-09-27,FlyDubai,Chennai,Dubai,First Class,First Flyer,449250.76398927375
 2021-09-28,FlyDubai,Chennai,Dubai,First Class,First Flyer,423686.05912242725
-2021-09-29,FlyDubai,Chennai,Dubai,First Class,First Flyer,432258.39272847516
+2021-09-29,FlyDubai,Chennai,Dubai,First Class,First Flyer,432258.3927284752
 2021-09-30,FlyDubai,Chennai,Dubai,First Class,First Flyer,432914.66536755563
 2021-10-01,FlyDubai,Chennai,Dubai,First Class,First Flyer,429684.32385916234
 2021-10-02,FlyDubai,Chennai,Dubai,First Class,First Flyer,419327.2994411346
@@ -4748,7 +4748,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-01-02,FlyDubai,Chennai,Dubai,First Class,First Flyer,422901.7097633893
 2022-01-03,FlyDubai,Chennai,Dubai,First Class,First Flyer,459673.95851140487
 2022-01-04,FlyDubai,Chennai,Dubai,First Class,First Flyer,434109.25363606674
-2022-01-05,FlyDubai,Chennai,Dubai,First Class,First Flyer,442681.587233545
+2022-01-05,FlyDubai,Chennai,Dubai,First Class,First Flyer,442681.58723354497
 2022-01-06,FlyDubai,Chennai,Dubai,First Class,First Flyer,443337.85986407683
 2022-01-07,FlyDubai,Chennai,Dubai,First Class,First Flyer,440107.51834707387
 2022-01-08,FlyDubai,Chennai,Dubai,First Class,First Flyer,429750.4939205509
@@ -4794,7 +4794,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-02-17,FlyDubai,Chennai,Dubai,First Class,First Flyer,447804.9431612035
 2022-02-18,FlyDubai,Chennai,Dubai,First Class,First Flyer,444574.6016442803
 2022-02-19,FlyDubai,Chennai,Dubai,First Class,First Flyer,434217.5772176419
-2022-02-20,FlyDubai,Chennai,Dubai,First Class,First Flyer,428113.30694342015
+2022-02-20,FlyDubai,Chennai,Dubai,First Class,First Flyer,428113.3069434201
 2022-02-21,FlyDubai,Chennai,Dubai,First Class,First Flyer,464885.5556914392
 2022-02-22,FlyDubai,Chennai,Dubai,First Class,First Flyer,439320.8508160684
 2022-02-23,FlyDubai,Chennai,Dubai,First Class,First Flyer,447893.1844135995
@@ -4919,7 +4919,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-06-22,FlyDubai,Chennai,Dubai,First Class,First Flyer,460549.9204222326
 2022-06-23,FlyDubai,Chennai,Dubai,First Class,First Flyer,461206.1930527215
 2022-06-24,FlyDubai,Chennai,Dubai,First Class,First Flyer,457975.85153575614
-2022-06-25,FlyDubai,Chennai,Dubai,First Class,First Flyer,447618.8271091758
+2022-06-25,FlyDubai,Chennai,Dubai,First Class,First Flyer,447618.82710917573
 2022-06-26,FlyDubai,Chennai,Dubai,First Class,First Flyer,441514.556834891
 2022-06-27,FlyDubai,Chennai,Dubai,First Class,First Flyer,478286.8055829543
 2022-06-28,FlyDubai,Chennai,Dubai,First Class,First Flyer,452722.1007075304
@@ -4983,7 +4983,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-08-25,FlyDubai,Chennai,Dubai,First Class,First Flyer,467906.8179984632
 2022-08-26,FlyDubai,Chennai,Dubai,First Class,First Flyer,464676.47648152977
 2022-08-27,FlyDubai,Chennai,Dubai,First Class,First Flyer,454319.4520549663
-2022-08-28,FlyDubai,Chennai,Dubai,First Class,First Flyer,448215.1817806951
+2022-08-28,FlyDubai,Chennai,Dubai,First Class,First Flyer,448215.18178069516
 2022-08-29,FlyDubai,Chennai,Dubai,First Class,First Flyer,484987.43052869017
 2022-08-30,FlyDubai,Chennai,Dubai,First Class,First Flyer,459422.72565333114
 2022-08-31,FlyDubai,Chennai,Dubai,First Class,First Flyer,467995.0592508432
@@ -5281,7 +5281,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-06-19,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,523324.43393258995
 2021-06-20,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,523152.9655976613
 2021-06-21,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,507462.835081077
-2021-06-22,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,517412.2649927052
+2021-06-22,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,517412.26499270514
 2021-06-23,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,523482.02435401647
 2021-06-24,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,530226.4105697117
 2021-06-25,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,549307.6320746411
@@ -5486,7 +5486,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-01-10,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,505277.9386019079
 2022-01-11,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,515227.3901989457
 2022-01-12,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,521297.17124569154
-2022-01-13,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,528041.579146848
+2022-01-13,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,528041.5791468478
 2022-01-14,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,547122.8223371486
 2022-01-15,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,521064.2253561191
 2022-01-16,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,520892.77870655543
@@ -5637,7 +5637,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-06-10,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,545542.1790800747
 2022-06-11,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,519483.58209896804
 2022-06-12,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,519312.1354494487
-2022-06-13,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,503622.02661828423
+2022-06-13,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,503622.0266182842
 2022-06-14,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,513571.47821532114
 2022-06-15,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,519641.25926206773
 2022-06-16,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,526385.6671631776
@@ -5665,7 +5665,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-07-08,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,545241.104173953
 2022-07-09,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,519182.50719287375
 2022-07-10,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,519011.0605433485
-2022-07-11,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,503320.9517121651
+2022-07-11,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,503320.95171216514
 2022-07-12,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,513270.40330922406
 2022-07-13,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,519340.1843559381
 2022-07-14,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,526084.592257053
@@ -5769,7 +5769,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-10-20,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,525030.8300857231
 2022-10-21,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,544112.0732760145
 2022-10-22,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,518053.4762949671
-2022-10-23,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,517882.0296454482
+2022-10-23,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,517882.02964544814
 2022-10-24,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,502191.9208142624
 2022-10-25,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,512141.37241132685
 2022-10-26,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,518211.15345802455
@@ -5808,7 +5808,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-11-28,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,501815.5771815757
 2022-11-29,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,511765.0287786202
 2022-11-30,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,517834.80982533057
-2022-12-01,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,524579.2177265412
+2022-12-01,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,524579.2177265411
 2022-12-02,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,543660.4609168532
 2022-12-03,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,517601.8639357903
 2022-12-04,FlyDubai,Chennai,Dubai,First Class,Frequent Flyer,517430.41728626564
@@ -5868,13 +5868,13 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-01-27,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,388674.865148327
 2021-01-28,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,399286.8985603649
 2021-01-29,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,409411.29219818866
-2021-01-30,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,385207.6396387905
+2021-01-30,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,385207.63963879045
 2021-01-31,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,393965.7142530719
 2021-02-01,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,400533.1262325867
 2021-02-02,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,384518.70279179874
 2021-02-03,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,388389.81213797594
 2021-02-04,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,399001.8455499966
-2021-02-05,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,409126.2391877808
+2021-02-05,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,409126.2391877809
 2021-02-06,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,384929.13134333206
 2021-02-07,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,393693.7506724613
 2021-02-08,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,400267.7073669447
@@ -6082,7 +6082,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-08-29,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,386755.80740253546
 2021-08-30,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,393329.7642530791
 2021-08-31,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,377321.8856832978
-2021-09-01,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,381199.5399005352
+2021-09-01,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,381199.53990053514
 2021-09-02,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,391818.11818351643
 2021-09-03,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,401949.0566762606
 2021-09-04,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,377751.9489718739
@@ -6131,7 +6131,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-10-17,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,385081.1339116571
 2021-10-18,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,391655.0907282731
 2021-10-19,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,375647.2121245875
-2021-10-20,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,379524.8663028877
+2021-10-20,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,379524.8663028876
 2021-10-21,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,390143.4445469913
 2021-10-22,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,400274.3830169497
 2021-10-23,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,376077.27528967895
@@ -6206,7 +6206,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-12-31,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,397881.99116220855
 2022-01-01,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,373684.88343500195
 2022-01-02,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,382449.50288139185
-2022-01-03,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,389023.4596930517
+2022-01-03,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,389023.45969305176
 2022-01-04,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,373015.5810843831
 2022-01-05,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,376893.2352627182
 2022-01-06,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,387511.81350682897
@@ -6482,7 +6482,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-10-03,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,379693.13145975216
 2022-10-04,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,363685.252851055
 2022-10-05,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,367562.90702939214
-2022-10-06,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,378181.48527354526
+2022-10-06,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,378181.4852735452
 2022-10-07,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,388312.42374348675
 2022-10-08,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,364115.31601620687
 2022-10-09,FlyDubai,Chennai,Dubai,First Class,Rare Flyer,372879.9354626392
@@ -6695,7 +6695,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-05-04,FlyDubai,Dubai,Chennai,Business,First Flyer,326073.0575831712
 2021-05-05,FlyDubai,Dubai,Chennai,Business,First Flyer,347044.61954367696
 2021-05-06,FlyDubai,Dubai,Chennai,Business,First Flyer,338647.3079801333
-2021-05-07,FlyDubai,Dubai,Chennai,Business,First Flyer,360212.2717661989
+2021-05-07,FlyDubai,Dubai,Chennai,Business,First Flyer,360212.271766199
 2021-05-08,FlyDubai,Dubai,Chennai,Business,First Flyer,335177.0931098173
 2021-05-09,FlyDubai,Dubai,Chennai,Business,First Flyer,329343.81277644687
 2021-05-10,FlyDubai,Dubai,Chennai,Business,First Flyer,330036.90430971753
@@ -7147,7 +7147,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-07-30,FlyDubai,Dubai,Chennai,Business,First Flyer,305036.12198778515
 2022-07-31,FlyDubai,Dubai,Chennai,Business,First Flyer,299202.8428705164
 2022-08-01,FlyDubai,Dubai,Chennai,Business,First Flyer,299895.9356220047
-2022-08-02,FlyDubai,Dubai,Chennai,Business,First Flyer,295461.130031006
+2022-08-02,FlyDubai,Dubai,Chennai,Business,First Flyer,295461.13003100595
 2022-08-03,FlyDubai,Dubai,Chennai,Business,First Flyer,316432.693207608
 2022-08-04,FlyDubai,Dubai,Chennai,Business,First Flyer,308035.3828602263
 2022-08-05,FlyDubai,Dubai,Chennai,Business,First Flyer,329600.34786235576
@@ -7197,7 +7197,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-09-18,FlyDubai,Dubai,Chennai,Business,First Flyer,295906.1819103679
 2022-09-19,FlyDubai,Dubai,Chennai,Business,First Flyer,296599.2746618375
 2022-09-20,FlyDubai,Dubai,Chennai,Business,First Flyer,292164.46907090355
-2022-09-21,FlyDubai,Dubai,Chennai,Business,First Flyer,313136.03224750375
+2022-09-21,FlyDubai,Dubai,Chennai,Business,First Flyer,313136.0322475038
 2022-09-22,FlyDubai,Dubai,Chennai,Business,First Flyer,304738.7219000672
 2022-09-23,FlyDubai,Dubai,Chennai,Business,First Flyer,326303.6869022369
 2022-09-24,FlyDubai,Dubai,Chennai,Business,First Flyer,301268.5094619422
@@ -7252,7 +7252,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-11-12,FlyDubai,Dubai,Chennai,Business,First Flyer,297971.8485018371
 2022-11-13,FlyDubai,Dubai,Chennai,Business,First Flyer,292138.56938457483
 2022-11-14,FlyDubai,Dubai,Chennai,Business,First Flyer,292831.66213603836
-2022-11-15,FlyDubai,Dubai,Chennai,Business,First Flyer,288396.8565450413
+2022-11-15,FlyDubai,Dubai,Chennai,Business,First Flyer,288396.8565450414
 2022-11-16,FlyDubai,Dubai,Chennai,Business,First Flyer,309368.41972165304
 2022-11-17,FlyDubai,Dubai,Chennai,Business,First Flyer,300971.1093742234
 2022-11-18,FlyDubai,Dubai,Chennai,Business,First Flyer,322536.074376357
@@ -7283,7 +7283,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-12-13,FlyDubai,Dubai,Chennai,Business,First Flyer,286513.05028212926
 2022-12-14,FlyDubai,Dubai,Chennai,Business,First Flyer,307484.6134587114
 2022-12-15,FlyDubai,Dubai,Chennai,Business,First Flyer,299087.3031112817
-2022-12-16,FlyDubai,Dubai,Chennai,Business,First Flyer,320652.26811343414
+2022-12-16,FlyDubai,Dubai,Chennai,Business,First Flyer,320652.2681134341
 2022-12-17,FlyDubai,Dubai,Chennai,Business,First Flyer,295617.09067306755
 2022-12-18,FlyDubai,Dubai,Chennai,Business,First Flyer,289783.81155583676
 2022-12-19,FlyDubai,Dubai,Chennai,Business,First Flyer,290476.9043073169
@@ -7393,7 +7393,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-04-02,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,426748.129328635
 2021-04-03,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,429945.89914124156
 2021-04-04,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,423770.60867877863
-2021-04-05,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,458215.2884516201
+2021-04-05,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,458215.28845162
 2021-04-06,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,429235.8012762306
 2021-04-07,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,432324.6908248367
 2021-04-08,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,428049.80667237134
@@ -7441,7 +7441,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-05-20,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,429716.79152302333
 2021-05-21,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,428692.9450030621
 2021-05-22,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,431890.7147845065
-2021-05-23,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,425715.424290865
+2021-05-23,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,425715.4242908651
 2021-05-24,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,460160.10403001844
 2021-05-25,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,431180.6168209296
 2021-05-26,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,434269.5063358824
@@ -7564,7 +7564,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-09-20,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,464883.2241329363
 2021-09-21,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,435903.7369433185
 2021-09-22,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,438992.6264776334
-2021-09-23,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,434717.7423109855
+2021-09-23,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,434717.7423109856
 2021-09-24,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,433693.895792021
 2021-09-25,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,436891.6655928416
 2021-09-26,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,430716.3751186539
@@ -7582,8 +7582,8 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-10-08,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,434249.36844600935
 2021-10-09,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,437446.949405674
 2021-10-10,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,431271.4700903063
-2021-10-11,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,465715.96100779175
-2021-10-12,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,436736.2849770438
+2021-10-11,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,465715.9610077917
+2021-10-12,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,436736.28497704375
 2021-10-13,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,439824.98567019845
 2021-10-14,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,435549.9126624427
 2021-10-15,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,434525.87730235344
@@ -7831,8 +7831,8 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-06-14,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,446414.09364144463
 2022-06-15,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,449502.7943291062
 2022-06-16,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,445227.7213158649
-2022-06-17,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,444203.68595025106
-2022-06-18,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,447401.2669044475
+2022-06-17,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,444203.6859502511
+2022-06-18,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,447401.26690444746
 2022-06-19,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,441225.78758351994
 2022-06-20,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,475670.27849554794
 2022-06-21,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,446690.6024593202
@@ -7890,7 +7890,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-08-12,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,446415.75649331947
 2022-08-13,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,449613.3374474772
 2022-08-14,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,443437.8581266289
-2022-08-15,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,477882.34903859074
+2022-08-15,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,477882.3490385908
 2022-08-16,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,448902.6730023214
 2022-08-17,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,451991.3736900275
 2022-08-18,FlyDubai,Dubai,Chennai,Business,Frequent Flyer,447716.30067670246
@@ -8044,10 +8044,10 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-01-13,FlyDubai,Dubai,Chennai,Business,Rare Flyer,296656.7957413178
 2021-01-14,FlyDubai,Dubai,Chennai,Business,Rare Flyer,278384.3138281523
 2021-01-15,FlyDubai,Dubai,Chennai,Business,Rare Flyer,320666.77045053645
-2021-01-16,FlyDubai,Dubai,Chennai,Business,Rare Flyer,279059.13519835763
+2021-01-16,FlyDubai,Dubai,Chennai,Business,Rare Flyer,279059.1351983576
 2021-01-17,FlyDubai,Dubai,Chennai,Business,Rare Flyer,289510.95488671644
 2021-01-18,FlyDubai,Dubai,Chennai,Business,Rare Flyer,272900.1696868853
-2021-01-19,FlyDubai,Dubai,Chennai,Business,Rare Flyer,323234.33434192406
+2021-01-19,FlyDubai,Dubai,Chennai,Business,Rare Flyer,323234.334341924
 2021-01-20,FlyDubai,Dubai,Chennai,Business,Rare Flyer,296890.4896119116
 2021-01-21,FlyDubai,Dubai,Chennai,Business,Rare Flyer,278618.0076987132
 2021-01-22,FlyDubai,Dubai,Chennai,Business,Rare Flyer,320900.4643210897
@@ -8108,15 +8108,15 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-03-18,FlyDubai,Dubai,Chennai,Business,Rare Flyer,280487.5573285111
 2021-03-19,FlyDubai,Dubai,Chennai,Business,Rare Flyer,322770.0139185152
 2021-03-20,FlyDubai,Dubai,Chennai,Business,Rare Flyer,281162.37863405515
-2021-03-21,FlyDubai,Dubai,Chennai,Business,Rare Flyer,291614.1982900322
-2021-03-22,FlyDubai,Dubai,Chennai,Business,Rare Flyer,275003.4130578928
+2021-03-21,FlyDubai,Dubai,Chennai,Business,Rare Flyer,291614.1982900323
+2021-03-22,FlyDubai,Dubai,Chennai,Business,Rare Flyer,275003.4130578929
 2021-03-23,FlyDubai,Dubai,Chennai,Business,Rare Flyer,325337.57768066745
 2021-03-24,FlyDubai,Dubai,Chennai,Business,Rare Flyer,298993.7329178427
 2021-03-25,FlyDubai,Dubai,Chennai,Business,Rare Flyer,280721.25097199826
 2021-03-26,FlyDubai,Dubai,Chennai,Business,Rare Flyer,323003.7075615209
 2021-03-27,FlyDubai,Dubai,Chennai,Business,Rare Flyer,281396.07227659336
 2021-03-28,FlyDubai,Dubai,Chennai,Business,Rare Flyer,291847.8919322189
-2021-03-29,FlyDubai,Dubai,Chennai,Business,Rare Flyer,275237.10669960914
+2021-03-29,FlyDubai,Dubai,Chennai,Business,Rare Flyer,275237.1066996091
 2021-03-30,FlyDubai,Dubai,Chennai,Business,Rare Flyer,325571.27132186637
 2021-03-31,FlyDubai,Dubai,Chennai,Business,Rare Flyer,299227.42655906314
 2021-04-01,FlyDubai,Dubai,Chennai,Business,Rare Flyer,280954.94461319805
@@ -8159,7 +8159,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-05-08,FlyDubai,Dubai,Chennai,Business,Rare Flyer,282798.22785288806
 2021-05-09,FlyDubai,Dubai,Chennai,Business,Rare Flyer,293250.0472289058
 2021-05-10,FlyDubai,Dubai,Chennai,Business,Rare Flyer,276639.26171212754
-2021-05-11,FlyDubai,Dubai,Chennai,Business,Rare Flyer,326973.426050319
+2021-05-11,FlyDubai,Dubai,Chennai,Business,Rare Flyer,326973.42605031905
 2021-05-12,FlyDubai,Dubai,Chennai,Business,Rare Flyer,300629.5810031269
 2021-05-13,FlyDubai,Dubai,Chennai,Business,Rare Flyer,282357.09877303557
 2021-05-14,FlyDubai,Dubai,Chennai,Business,Rare Flyer,324639.5550784193
@@ -8290,14 +8290,14 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-09-16,FlyDubai,Dubai,Chennai,Business,Rare Flyer,285708.05254442495
 2021-09-17,FlyDubai,Dubai,Chennai,Business,Rare Flyer,327976.2594076961
 2021-09-18,FlyDubai,Dubai,Chennai,Business,Rare Flyer,286354.3743965513
-2021-09-19,FlyDubai,Dubai,Chennai,Business,Rare Flyer,296791.94432582875
+2021-09-19,FlyDubai,Dubai,Chennai,Business,Rare Flyer,296791.9443258287
 2021-09-20,FlyDubai,Dubai,Chennai,Business,Rare Flyer,280166.9093670647
 2021-09-21,FlyDubai,Dubai,Chennai,Business,Rare Flyer,330486.82426303433
 2021-09-22,FlyDubai,Dubai,Chennai,Business,Rare Flyer,304128.7297739196
 2021-09-23,FlyDubai,Dubai,Chennai,Business,Rare Flyer,285841.99810162303
 2021-09-24,FlyDubai,Dubai,Chennai,Business,Rare Flyer,328110.2049649465
 2021-09-25,FlyDubai,Dubai,Chennai,Business,Rare Flyer,286488.3199537751
-2021-09-26,FlyDubai,Dubai,Chennai,Business,Rare Flyer,296925.889883007
+2021-09-26,FlyDubai,Dubai,Chennai,Business,Rare Flyer,296925.8898830069
 2021-09-27,FlyDubai,Dubai,Chennai,Business,Rare Flyer,280300.85491350375
 2021-09-28,FlyDubai,Dubai,Chennai,Business,Rare Flyer,330620.7697987448
 2021-09-29,FlyDubai,Dubai,Chennai,Business,Rare Flyer,304262.6752989251
@@ -8400,7 +8400,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-01-04,FlyDubai,Dubai,Chennai,Business,Rare Flyer,332496.00471874286
 2022-01-05,FlyDubai,Dubai,Chennai,Business,Rare Flyer,306137.91019790823
 2022-01-06,FlyDubai,Dubai,Chennai,Business,Rare Flyer,287851.17849396815
-2022-01-07,FlyDubai,Dubai,Chennai,Business,Rare Flyer,330119.3853256078
+2022-01-07,FlyDubai,Dubai,Chennai,Business,Rare Flyer,330119.3853256077
 2022-01-08,FlyDubai,Dubai,Chennai,Business,Rare Flyer,288497.500282725
 2022-01-09,FlyDubai,Dubai,Chennai,Business,Rare Flyer,298935.0701802253
 2022-01-10,FlyDubai,Dubai,Chennai,Business,Rare Flyer,282310.0351896918
@@ -8479,7 +8479,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-03-24,FlyDubai,Dubai,Chennai,Business,Rare Flyer,289324.5771795053
 2022-03-25,FlyDubai,Dubai,Chennai,Business,Rare Flyer,331592.78401106707
 2022-03-26,FlyDubai,Dubai,Chennai,Business,Rare Flyer,289970.8989682167
-2022-03-27,FlyDubai,Dubai,Chennai,Business,Rare Flyer,300408.4688657133
+2022-03-27,FlyDubai,Dubai,Chennai,Business,Rare Flyer,300408.46886571334
 2022-03-28,FlyDubai,Dubai,Chennai,Business,Rare Flyer,283783.4338752081
 2022-03-29,FlyDubai,Dubai,Chennai,Business,Rare Flyer,334103.34873943834
 2022-03-30,FlyDubai,Dubai,Chennai,Business,Rare Flyer,307745.2542186172
@@ -8529,7 +8529,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-05-13,FlyDubai,Dubai,Chennai,Business,Rare Flyer,332530.40135643823
 2022-05-14,FlyDubai,Dubai,Chennai,Business,Rare Flyer,290908.5163134654
 2022-05-15,FlyDubai,Dubai,Chennai,Business,Rare Flyer,301346.0862110158
-2022-05-16,FlyDubai,Dubai,Chennai,Business,Rare Flyer,284721.0512205156
+2022-05-16,FlyDubai,Dubai,Chennai,Business,Rare Flyer,284721.05122051557
 2022-05-17,FlyDubai,Dubai,Chennai,Business,Rare Flyer,335040.96608477755
 2022-05-18,FlyDubai,Dubai,Chennai,Business,Rare Flyer,308682.87156383286
 2022-05-19,FlyDubai,Dubai,Chennai,Business,Rare Flyer,290396.13985989266
@@ -8547,7 +8547,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-05-31,FlyDubai,Dubai,Chennai,Business,Rare Flyer,335308.8567548138
 2022-06-01,FlyDubai,Dubai,Chennai,Business,Rare Flyer,308950.7622338036
 2022-06-02,FlyDubai,Dubai,Chennai,Business,Rare Flyer,290664.03052989335
-2022-06-03,FlyDubai,Dubai,Chennai,Business,Rare Flyer,332932.23736142233
+2022-06-03,FlyDubai,Dubai,Chennai,Business,Rare Flyer,332932.2373614224
 2022-06-04,FlyDubai,Dubai,Chennai,Business,Rare Flyer,291310.35231854016
 2022-06-05,FlyDubai,Dubai,Chennai,Business,Rare Flyer,301747.92221614404
 2022-06-06,FlyDubai,Dubai,Chennai,Business,Rare Flyer,285122.8872255513
@@ -8600,7 +8600,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-07-23,FlyDubai,Dubai,Chennai,Business,Rare Flyer,292247.96966394375
 2022-07-24,FlyDubai,Dubai,Chennai,Business,Rare Flyer,302685.53956144647
 2022-07-25,FlyDubai,Dubai,Chennai,Business,Rare Flyer,286060.50457094284
-2022-07-26,FlyDubai,Dubai,Chennai,Business,Rare Flyer,336380.41943517124
+2022-07-26,FlyDubai,Dubai,Chennai,Business,Rare Flyer,336380.4194351712
 2022-07-27,FlyDubai,Dubai,Chennai,Business,Rare Flyer,310022.32491432264
 2022-07-28,FlyDubai,Dubai,Chennai,Business,Rare Flyer,291735.59321040765
 2022-07-29,FlyDubai,Dubai,Chennai,Business,Rare Flyer,334003.800041868
@@ -8621,7 +8621,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-08-13,FlyDubai,Dubai,Chennai,Business,Rare Flyer,292649.8056689841
 2022-08-14,FlyDubai,Dubai,Chennai,Business,Rare Flyer,303087.3755666023
 2022-08-15,FlyDubai,Dubai,Chennai,Business,Rare Flyer,286462.3405761258
-2022-08-16,FlyDubai,Dubai,Chennai,Business,Rare Flyer,336782.25544022565
+2022-08-16,FlyDubai,Dubai,Chennai,Business,Rare Flyer,336782.2554402256
 2022-08-17,FlyDubai,Dubai,Chennai,Business,Rare Flyer,310424.16091934824
 2022-08-18,FlyDubai,Dubai,Chennai,Business,Rare Flyer,292137.42921543046
 2022-08-19,FlyDubai,Dubai,Chennai,Business,Rare Flyer,334405.6360470312
@@ -8630,7 +8630,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-08-22,FlyDubai,Dubai,Chennai,Business,Rare Flyer,286596.2859109835
 2022-08-23,FlyDubai,Dubai,Chennai,Business,Rare Flyer,336916.200775226
 2022-08-24,FlyDubai,Dubai,Chennai,Business,Rare Flyer,310558.10625440325
-2022-08-25,FlyDubai,Dubai,Chennai,Business,Rare Flyer,292271.3745504526
+2022-08-25,FlyDubai,Dubai,Chennai,Business,Rare Flyer,292271.37455045263
 2022-08-26,FlyDubai,Dubai,Chennai,Business,Rare Flyer,334539.58138201607
 2022-08-27,FlyDubai,Dubai,Chennai,Business,Rare Flyer,292917.6963390109
 2022-08-28,FlyDubai,Dubai,Chennai,Business,Rare Flyer,303355.2662366618
@@ -8661,14 +8661,14 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-09-22,FlyDubai,Dubai,Chennai,Business,Rare Flyer,292807.15589062456
 2022-09-23,FlyDubai,Dubai,Chennai,Business,Rare Flyer,335075.362722224
 2022-09-24,FlyDubai,Dubai,Chennai,Business,Rare Flyer,293453.47767921933
-2022-09-25,FlyDubai,Dubai,Chennai,Business,Rare Flyer,303891.04757684737
+2022-09-25,FlyDubai,Dubai,Chennai,Business,Rare Flyer,303891.0475768474
 2022-09-26,FlyDubai,Dubai,Chennai,Business,Rare Flyer,287266.01258628117
 2022-09-27,FlyDubai,Dubai,Chennai,Business,Rare Flyer,337585.9274505645
 2022-09-28,FlyDubai,Dubai,Chennai,Business,Rare Flyer,311227.8329296481
 2022-09-29,FlyDubai,Dubai,Chennai,Business,Rare Flyer,292941.1012256466
 2022-09-30,FlyDubai,Dubai,Chennai,Business,Rare Flyer,335209.3080572384
 2022-10-01,FlyDubai,Dubai,Chennai,Business,Rare Flyer,293587.42301426723
-2022-10-02,FlyDubai,Dubai,Chennai,Business,Rare Flyer,304024.9929118497
+2022-10-02,FlyDubai,Dubai,Chennai,Business,Rare Flyer,304024.99291184975
 2022-10-03,FlyDubai,Dubai,Chennai,Business,Rare Flyer,287399.9579212861
 2022-10-04,FlyDubai,Dubai,Chennai,Business,Rare Flyer,337719.8727855827
 2022-10-05,FlyDubai,Dubai,Chennai,Business,Rare Flyer,311361.77826481237
@@ -8793,7 +8793,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-02-01,FlyDubai,Dubai,Chennai,Economy,First Flyer,523598.68844523135
 2021-02-02,FlyDubai,Dubai,Chennai,Economy,First Flyer,539947.4280355383
 2021-02-03,FlyDubai,Dubai,Chennai,Economy,First Flyer,528338.5039551895
-2021-02-04,FlyDubai,Dubai,Chennai,Economy,First Flyer,513124.965385465
+2021-02-04,FlyDubai,Dubai,Chennai,Economy,First Flyer,513124.96538546507
 2021-02-05,FlyDubai,Dubai,Chennai,Economy,First Flyer,520784.9692359562
 2021-02-06,FlyDubai,Dubai,Chennai,Economy,First Flyer,526709.1207673644
 2021-02-07,FlyDubai,Dubai,Chennai,Economy,First Flyer,524419.4609631397
@@ -8933,7 +8933,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-06-21,FlyDubai,Dubai,Chennai,Economy,First Flyer,524112.4160228299
 2021-06-22,FlyDubai,Dubai,Chennai,Economy,First Flyer,540461.1555360389
 2021-06-23,FlyDubai,Dubai,Chennai,Economy,First Flyer,528852.2313785761
-2021-06-24,FlyDubai,Dubai,Chennai,Economy,First Flyer,513638.6927318485
+2021-06-24,FlyDubai,Dubai,Chennai,Economy,First Flyer,513638.69273184857
 2021-06-25,FlyDubai,Dubai,Chennai,Economy,First Flyer,521298.69650525274
 2021-06-26,FlyDubai,Dubai,Chennai,Economy,First Flyer,527222.8479740215
 2021-06-27,FlyDubai,Dubai,Chennai,Economy,First Flyer,524933.1881071294
@@ -8962,7 +8962,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-07-20,FlyDubai,Dubai,Chennai,Economy,First Flyer,540563.9005005967
 2021-07-21,FlyDubai,Dubai,Chennai,Economy,First Flyer,528954.9765656291
 2021-07-22,FlyDubai,Dubai,Chennai,Economy,First Flyer,513741.43814139545
-2021-07-23,FlyDubai,Dubai,Chennai,Economy,First Flyer,521401.4421373054
+2021-07-23,FlyDubai,Dubai,Chennai,Economy,First Flyer,521401.44213730545
 2021-07-24,FlyDubai,Dubai,Chennai,Economy,First Flyer,527325.5938226674
 2021-07-25,FlyDubai,Dubai,Chennai,Economy,First Flyer,525035.9341724092
 2021-07-26,FlyDubai,Dubai,Chennai,Economy,First Flyer,524240.8484246805
@@ -9081,7 +9081,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-11-16,FlyDubai,Dubai,Chennai,Economy,First Flyer,541089.5375293371
 2021-11-17,FlyDubai,Dubai,Chennai,Economy,First Flyer,529481.794960697
 2021-11-18,FlyDubai,Dubai,Chennai,Economy,First Flyer,514269.43790276797
-2021-11-19,FlyDubai,Dubai,Chennai,Economy,First Flyer,521930.62326504226
+2021-11-19,FlyDubai,Dubai,Chennai,Economy,First Flyer,521930.6232650423
 2021-11-20,FlyDubai,Dubai,Chennai,Economy,First Flyer,527855.9563167308
 2021-11-21,FlyDubai,Dubai,Chennai,Economy,First Flyer,525567.4780327977
 2021-11-22,FlyDubai,Dubai,Chennai,Economy,First Flyer,524773.5736514041
@@ -9211,7 +9211,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-03-26,FlyDubai,Dubai,Chennai,Economy,First Flyer,528467.1863516018
 2022-03-27,FlyDubai,Dubai,Chennai,Economy,First Flyer,526178.7080676618
 2022-03-28,FlyDubai,Dubai,Chennai,Economy,First Flyer,525384.8036862934
-2022-03-29,FlyDubai,Dubai,Chennai,Economy,First Flyer,541734.7247883828
+2022-03-29,FlyDubai,Dubai,Chennai,Economy,First Flyer,541734.7247883826
 2022-03-30,FlyDubai,Dubai,Chennai,Economy,First Flyer,530126.9822197752
 2022-03-31,FlyDubai,Dubai,Chennai,Economy,First Flyer,514914.62516181445
 2022-04-01,FlyDubai,Dubai,Chennai,Economy,First Flyer,522575.81052404543
@@ -9339,7 +9339,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-08-01,FlyDubai,Dubai,Chennai,Economy,First Flyer,525996.0337211743
 2022-08-02,FlyDubai,Dubai,Chennai,Economy,First Flyer,542345.9548232275
 2022-08-03,FlyDubai,Dubai,Chennai,Economy,First Flyer,530738.2122546108
-2022-08-04,FlyDubai,Dubai,Chennai,Economy,First Flyer,515525.8551966605
+2022-08-04,FlyDubai,Dubai,Chennai,Economy,First Flyer,515525.85519666056
 2022-08-05,FlyDubai,Dubai,Chennai,Economy,First Flyer,523187.0405589325
 2022-08-06,FlyDubai,Dubai,Chennai,Economy,First Flyer,529112.3736106276
 2022-08-07,FlyDubai,Dubai,Chennai,Economy,First Flyer,526823.8953267062
@@ -9374,7 +9374,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-09-05,FlyDubai,Dubai,Chennai,Economy,First Flyer,526165.8198419673
 2022-09-06,FlyDubai,Dubai,Chennai,Economy,First Flyer,542515.7409440323
 2022-09-07,FlyDubai,Dubai,Chennai,Economy,First Flyer,530907.9983753534
-2022-09-08,FlyDubai,Dubai,Chennai,Economy,First Flyer,515695.64131749794
+2022-09-08,FlyDubai,Dubai,Chennai,Economy,First Flyer,515695.641317498
 2022-09-09,FlyDubai,Dubai,Chennai,Economy,First Flyer,523356.82667972654
 2022-09-10,FlyDubai,Dubai,Chennai,Economy,First Flyer,529282.1597314237
 2022-09-11,FlyDubai,Dubai,Chennai,Economy,First Flyer,526993.6814474816
@@ -9382,7 +9382,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-09-13,FlyDubai,Dubai,Chennai,Economy,First Flyer,542549.6981681822
 2022-09-14,FlyDubai,Dubai,Chennai,Economy,First Flyer,530941.955599566
 2022-09-15,FlyDubai,Dubai,Chennai,Economy,First Flyer,515729.5985416494
-2022-09-16,FlyDubai,Dubai,Chennai,Economy,First Flyer,523390.7839038853
+2022-09-16,FlyDubai,Dubai,Chennai,Economy,First Flyer,523390.7839038852
 2022-09-17,FlyDubai,Dubai,Chennai,Economy,First Flyer,529316.1169555903
 2022-09-18,FlyDubai,Dubai,Chennai,Economy,First Flyer,527027.638671662
 2022-09-19,FlyDubai,Dubai,Chennai,Economy,First Flyer,526233.73429025
@@ -9736,13 +9736,13 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-09-02,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,573541.1638420294
 2021-09-03,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,566307.2790706957
 2021-09-04,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,561232.786338243
-2021-09-05,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,564052.5715722211
+2021-09-05,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,564052.571572221
 2021-09-06,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,584790.4853994371
 2021-09-07,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,571185.2227035407
 2021-09-08,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,574356.2854613967
 2021-09-09,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,573311.3177929661
 2021-09-10,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,566077.433021608
-2021-09-11,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,561002.9402891191
+2021-09-11,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,561002.940289119
 2021-09-12,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,563822.7255231255
 2021-09-13,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,584560.6393503351
 2021-09-14,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,570955.3766544536
@@ -9845,7 +9845,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-12-20,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,581342.8951955814
 2021-12-21,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,567737.6336675737
 2021-12-22,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,570908.6975933131
-2021-12-23,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,569863.7310927737
+2021-12-23,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,569863.7310927736
 2021-12-24,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,562629.8474892996
 2021-12-25,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,557555.3559247515
 2021-12-26,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,560375.1423266357
@@ -9880,7 +9880,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-01-24,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,580193.7058264603
 2022-01-25,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,566588.4442984727
 2022-01-26,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,569759.5082242027
-2022-01-27,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,568714.5417236722
+2022-01-27,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,568714.5417236721
 2022-01-28,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,561480.6581202273
 2022-01-29,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,556406.1665556224
 2022-01-30,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,559225.9529575214
@@ -9926,7 +9926,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-03-11,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,560101.6308772832
 2022-03-12,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,555027.1393127048
 2022-03-13,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,557846.9257145947
-2022-03-14,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,578584.8407097157
+2022-03-14,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,578584.8407097158
 2022-03-15,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,564979.5791817092
 2022-03-16,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,568150.6431074671
 2022-03-17,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,567105.6766069435
@@ -10108,7 +10108,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-09-09,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,554125.846157949
 2022-09-10,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,549051.3545933787
 2022-09-11,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,551871.1409952925
-2022-09-12,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,572609.0559903741
+2022-09-12,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,572609.055990374
 2022-09-13,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,559003.7944623807
 2022-09-14,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,562174.8583881157
 2022-09-15,FlyDubai,Dubai,Chennai,Economy,Frequent Flyer,561129.8918875563
@@ -10332,7 +10332,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-04-21,FlyDubai,Dubai,Chennai,Economy,Rare Flyer,476843.68633180234
 2021-04-22,FlyDubai,Dubai,Chennai,Economy,Rare Flyer,472189.22339337855
 2021-04-23,FlyDubai,Dubai,Chennai,Economy,Rare Flyer,470344.90084714687
-2021-04-24,FlyDubai,Dubai,Chennai,Economy,Rare Flyer,494052.54135662573
+2021-04-24,FlyDubai,Dubai,Chennai,Economy,Rare Flyer,494052.5413566257
 2021-04-25,FlyDubai,Dubai,Chennai,Economy,Rare Flyer,478243.2143757651
 2021-04-26,FlyDubai,Dubai,Chennai,Economy,Rare Flyer,478331.77470718836
 2021-04-27,FlyDubai,Dubai,Chennai,Economy,Rare Flyer,489223.8537569938
@@ -10431,7 +10431,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-07-29,FlyDubai,Dubai,Chennai,Economy,Rare Flyer,472138.4826029221
 2021-07-30,FlyDubai,Dubai,Chennai,Economy,Rare Flyer,470294.1600025431
 2021-07-31,FlyDubai,Dubai,Chennai,Economy,Rare Flyer,494001.8004868614
-2021-08-01,FlyDubai,Dubai,Chennai,Economy,Rare Flyer,478192.47348078626
+2021-08-01,FlyDubai,Dubai,Chennai,Economy,Rare Flyer,478192.4734807863
 2021-08-02,FlyDubai,Dubai,Chennai,Economy,Rare Flyer,478281.03378697264
 2021-08-03,FlyDubai,Dubai,Chennai,Economy,Rare Flyer,489173.1128116255
 2021-08-04,FlyDubai,Dubai,Chennai,Economy,Rare Flyer,476789.32110424043
@@ -10753,7 +10753,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-06-16,FlyDubai,Dubai,Chennai,Economy,Rare Flyer,471971.76107336784
 2022-06-17,FlyDubai,Dubai,Chennai,Economy,Rare Flyer,470127.438511162
 2022-06-18,FlyDubai,Dubai,Chennai,Economy,Rare Flyer,493835.07900468976
-2022-06-19,FlyDubai,Dubai,Chennai,Economy,Rare Flyer,478025.7520079109
+2022-06-19,FlyDubai,Dubai,Chennai,Economy,Rare Flyer,478025.75200791087
 2022-06-20,FlyDubai,Dubai,Chennai,Economy,Rare Flyer,478114.31232336356
 2022-06-21,FlyDubai,Dubai,Chennai,Economy,Rare Flyer,489006.3913571881
 2022-06-22,FlyDubai,Dubai,Chennai,Economy,Rare Flyer,476622.59965912945
@@ -10821,7 +10821,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-08-23,FlyDubai,Dubai,Chennai,Economy,Rare Flyer,488973.772038878
 2022-08-24,FlyDubai,Dubai,Chennai,Economy,Rare Flyer,476589.98034075164
 2022-08-25,FlyDubai,Dubai,Chennai,Economy,Rare Flyer,471935.51738635695
-2022-08-26,FlyDubai,Dubai,Chennai,Economy,Rare Flyer,470091.1948241454
+2022-08-26,FlyDubai,Dubai,Chennai,Economy,Rare Flyer,470091.19482414535
 2022-08-27,FlyDubai,Dubai,Chennai,Economy,Rare Flyer,493798.83531767793
 2022-08-28,FlyDubai,Dubai,Chennai,Economy,Rare Flyer,477989.508320842
 2022-08-29,FlyDubai,Dubai,Chennai,Economy,Rare Flyer,478078.068636343
@@ -10992,7 +10992,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-02-10,FlyDubai,Dubai,Chennai,First Class,First Flyer,388556.4942170423
 2021-02-11,FlyDubai,Dubai,Chennai,First Class,First Flyer,408944.7020422071
 2021-02-12,FlyDubai,Dubai,Chennai,First Class,First Flyer,419785.36741224566
-2021-02-13,FlyDubai,Dubai,Chennai,First Class,First Flyer,386789.08859436546
+2021-02-13,FlyDubai,Dubai,Chennai,First Class,First Flyer,386789.0885943655
 2021-02-14,FlyDubai,Dubai,Chennai,First Class,First Flyer,406671.6785800704
 2021-02-15,FlyDubai,Dubai,Chennai,First Class,First Flyer,416608.94339771563
 2021-02-16,FlyDubai,Dubai,Chennai,First Class,First Flyer,390642.0847581702
@@ -11116,7 +11116,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-06-14,FlyDubai,Dubai,Chennai,First Class,First Flyer,423538.30065681814
 2021-06-15,FlyDubai,Dubai,Chennai,First Class,First Flyer,397582.56765669805
 2021-06-16,FlyDubai,Dubai,Chennai,First Class,First Flyer,395900.0051819084
-2021-06-17,FlyDubai,Dubai,Chennai,First Class,First Flyer,416299.3386464807
+2021-06-17,FlyDubai,Dubai,Chennai,First Class,First Flyer,416299.33864648076
 2021-06-18,FlyDubai,Dubai,Chennai,First Class,First Flyer,427151.1296561083
 2021-06-19,FlyDubai,Dubai,Chennai,First Class,First Flyer,394165.9764776151
 2021-06-20,FlyDubai,Dubai,Chennai,First Class,First Flyer,414059.69210284884
@@ -11141,7 +11141,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-07-09,FlyDubai,Dubai,Chennai,First Class,First Flyer,428564.8920799132
 2021-07-10,FlyDubai,Dubai,Chennai,First Class,First Flyer,395580.0546536749
 2021-07-11,FlyDubai,Dubai,Chennai,First Class,First Flyer,415474.0860311191
-2021-07-12,FlyDubai,Dubai,Chennai,First Class,First Flyer,425422.79224031186
+2021-07-12,FlyDubai,Dubai,Chennai,First Class,First Flyer,425422.7922403119
 2021-07-13,FlyDubai,Dubai,Chennai,First Class,First Flyer,399467.3749923962
 2021-07-14,FlyDubai,Dubai,Chennai,First Class,First Flyer,397785.1282697508
 2021-07-15,FlyDubai,Dubai,Chennai,First Class,First Flyer,418184.7774864663
@@ -11227,7 +11227,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-10-03,FlyDubai,Dubai,Chennai,First Class,First Flyer,421137.99756442604
 2021-10-04,FlyDubai,Dubai,Chennai,First Class,First Flyer,431086.70391151955
 2021-10-05,FlyDubai,Dubai,Chennai,First Class,First Flyer,405131.28680141625
-2021-10-06,FlyDubai,Dubai,Chennai,First Class,First Flyer,403449.0402165942
+2021-10-06,FlyDubai,Dubai,Chennai,First Class,First Flyer,403449.0402165941
 2021-10-07,FlyDubai,Dubai,Chennai,First Class,First Flyer,423848.6895712175
 2021-10-08,FlyDubai,Dubai,Chennai,First Class,First Flyer,434700.7965025481
 2021-10-09,FlyDubai,Dubai,Chennai,First Class,First Flyer,401715.9592458359
@@ -11305,7 +11305,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-12-20,FlyDubai,Dubai,Chennai,First Class,First Flyer,436278.63224652194
 2021-12-21,FlyDubai,Dubai,Chennai,First Class,First Flyer,410323.2151926813
 2021-12-22,FlyDubai,Dubai,Chennai,First Class,First Flyer,408640.96866419405
-2021-12-23,FlyDubai,Dubai,Chennai,First Class,First Flyer,429040.6180750116
+2021-12-23,FlyDubai,Dubai,Chennai,First Class,First Flyer,429040.61807501165
 2021-12-24,FlyDubai,Dubai,Chennai,First Class,First Flyer,439892.7250308468
 2021-12-25,FlyDubai,Dubai,Chennai,First Class,First Flyer,406907.8877987299
 2021-12-26,FlyDubai,Dubai,Chennai,First Class,First Flyer,426801.9193702244
@@ -11451,7 +11451,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-05-15,FlyDubai,Dubai,Chennai,First Class,First Flyer,436241.78991210373
 2022-05-16,FlyDubai,Dubai,Chennai,First Class,First Flyer,446190.49631540757
 2022-05-17,FlyDubai,Dubai,Chennai,First Class,First Flyer,420235.07926163776
-2022-05-18,FlyDubai,Dubai,Chennai,First Class,First Flyer,418552.8327330615
+2022-05-18,FlyDubai,Dubai,Chennai,First Class,First Flyer,418552.8327330616
 2022-05-19,FlyDubai,Dubai,Chennai,First Class,First Flyer,438952.4821439838
 2022-05-20,FlyDubai,Dubai,Chennai,First Class,First Flyer,449804.5890997564
 2022-05-21,FlyDubai,Dubai,Chennai,First Class,First Flyer,416819.7518676208
@@ -11648,7 +11648,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-11-28,FlyDubai,Dubai,Chennai,First Class,First Flyer,459406.3150739305
 2022-11-29,FlyDubai,Dubai,Chennai,First Class,First Flyer,433450.8980200932
 2022-11-30,FlyDubai,Dubai,Chennai,First Class,First Flyer,431768.6514915674
-2022-12-01,FlyDubai,Dubai,Chennai,First Class,First Flyer,452168.3009025044
+2022-12-01,FlyDubai,Dubai,Chennai,First Class,First Flyer,452168.3009025045
 2022-12-02,FlyDubai,Dubai,Chennai,First Class,First Flyer,463020.4078582649
 2022-12-03,FlyDubai,Dubai,Chennai,First Class,First Flyer,430035.57062614267
 2022-12-04,FlyDubai,Dubai,Chennai,First Class,First Flyer,449929.6021976141
@@ -12363,7 +12363,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-11-13,FlyDubai,Dubai,Chennai,First Class,Frequent Flyer,552528.1389135515
 2022-11-14,FlyDubai,Dubai,Chennai,First Class,Frequent Flyer,559938.5756552899
 2022-11-15,FlyDubai,Dubai,Chennai,First Class,Frequent Flyer,562293.9054186088
-2022-11-16,FlyDubai,Dubai,Chennai,First Class,Frequent Flyer,534824.1698137589
+2022-11-16,FlyDubai,Dubai,Chennai,First Class,Frequent Flyer,534824.169813759
 2022-11-17,FlyDubai,Dubai,Chennai,First Class,Frequent Flyer,557737.0265583335
 2022-11-18,FlyDubai,Dubai,Chennai,First Class,Frequent Flyer,550832.8900968853
 2022-11-19,FlyDubai,Dubai,Chennai,First Class,Frequent Flyer,556479.9162187214
@@ -12449,7 +12449,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-02-07,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,366731.12548123155
 2021-02-08,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,385784.49551523576
 2021-02-09,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,394047.349768969
-2021-02-10,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,354764.5372186948
+2021-02-10,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,354764.53721869487
 2021-02-11,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,388823.5505061147
 2021-02-12,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,383731.1983612585
 2021-02-13,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,383276.7710103174
@@ -12486,11 +12486,11 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-03-16,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,397539.54003223893
 2021-03-17,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,358256.7274343123
 2021-03-18,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,392315.7406740942
-2021-03-19,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,387223.3884816141
+2021-03-19,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,387223.38848161406
 2021-03-20,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,386768.96108303097
 2021-03-21,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,370921.7537513292
 2021-03-22,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,389975.1237376063
-2021-03-23,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,398237.97794374893
+2021-03-23,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,398237.9779437489
 2021-03-24,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,358955.1653468785
 2021-03-25,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,393014.1785877026
 2021-03-26,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,387921.8263962138
@@ -12517,7 +12517,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-04-16,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,390017.1399252585
 2021-04-17,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,389562.7124896381
 2021-04-18,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,373715.5051210745
-2021-04-19,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,392768.8750705399
+2021-04-19,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,392768.8750705398
 2021-04-20,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,401031.7292396895
 2021-04-21,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,361748.91660477436
 2021-04-22,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,395807.9298076454
@@ -12556,7 +12556,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-05-25,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,404523.91741806065
 2021-05-26,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,365241.1047709937
 2021-05-27,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,399300.1179615035
-2021-05-28,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,394207.76571976085
+2021-05-28,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,394207.7657197608
 2021-05-29,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,393753.338271951
 2021-05-30,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,377906.13089101115
 2021-05-31,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,396959.50082813425
@@ -12586,7 +12586,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2021-06-24,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,402077.42434247426
 2021-06-25,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,396983.5772102965
 2021-06-26,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,396527.65399763035
-2021-06-27,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,380678.9508520592
+2021-06-27,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,380678.9508520591
 2021-06-28,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,399730.8250243532
 2021-06-29,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,407992.1834164979
 2021-06-30,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,368707.8750045056
@@ -12845,7 +12845,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-03-10,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,427291.06619860907
 2022-03-11,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,422196.20101445116
 2022-03-12,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,421739.2606240712
-2022-03-13,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,405889.5403006051
+2022-03-13,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,405889.5403006052
 2022-03-14,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,424940.3972951417
 2022-03-15,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,433200.73850947485
 2022-03-16,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,393915.41291981103
@@ -12908,7 +12908,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-05-12,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,433418.6889209753
 2022-05-13,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,428323.8237367564
 2022-05-14,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,427866.8833463339
-2022-05-15,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,412017.1630228587
+2022-05-15,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,412017.1630228586
 2022-05-16,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,431068.0200174821
 2022-05-17,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,439328.36123174883
 2022-05-18,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,400043.0356421235
@@ -12955,7 +12955,7 @@ Date_of_Journey,Airline,Source,Destination,Product,Customer,Revenue
 2022-06-28,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,443413.4430466314
 2022-06-29,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,404128.1174569765
 2022-06-30,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,438184.61770490924
-2022-07-01,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,433089.7525207503
+2022-07-01,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,433089.7525207502
 2022-07-02,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,432632.812130349
 2022-07-03,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,416783.09180696757
 2022-07-04,FlyDubai,Dubai,Chennai,First Class,Rare Flyer,435833.94880154554
