@@ -29,7 +29,7 @@ class ArimaImplementation:
 #             print(data1)
             train_data = data1[:len(data1)-50]
             test_data = data1[len(data1)-50:]
-            print(test_data,test_data.columns)
+#             print(test_data,test_data.columns)
             arima_model = SARIMAX(train_data['number_of_booking'], order = (2,1,1), seasonal_order = (1,1,1,12))
             arima_result = arima_model.fit()
             arima_pred = arima_result.predict(start = len(train_data), end = len(data1)-1, typ="levels").rename("number_of_booking")
@@ -86,13 +86,12 @@ class ArimaImplementation:
             return test_data
         
         
-    def Accuracy(self,test_data,arima_pred): 
+    def AccuracyBooking(self,test_data,arima_pred): 
             arima_rmse_error = rmse(test_data['booking'], arima_pred)
             arima_mse_error = arima_rmse_error**2
-#             mean_value = df['booking'].mean()
 
             print(f'MSE Error: {arima_mse_error}\nRMSE Error: {arima_rmse_error}\nMean: {mean_value}')
             test_data['ARIMA_Predictions'] = arima_pred
-    #         print(f"Mean: {test_data['Revenue'].mean()}")
+
             errors = pd.DataFrame({"Models" : ["ARIMA"],"RMSE Errors" : arima_rmse_error, "MSE Errors" : arima_mse_error})
             print(errors)

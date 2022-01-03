@@ -5,7 +5,8 @@ import json
 import sys
 from prophet import ProphetImplementation
 from Arima import ArimaImplementation
-from keras_impl import KerasModelImplementation
+from keras_impl_booking import KerasModelImplementationBooking
+from keras_impl_revenue import KerasModelImplementationRevenue
 import traceback
 
 if __name__=="__main__":
@@ -23,13 +24,13 @@ if __name__=="__main__":
                     redshift = RedshiftConnection(username,password,engine,host,port)
                     print("Redshift Connection Established")
                     #Truncate table with datasource as model
-                    truncate = RedshiftConnection.truncate_table(redshift,"KERAS")
+                    truncate = RedshiftConnection.truncate_table_booking(redshift,"KERAS")
                     print("Data has been truncated successfully")
                     redshift = RedshiftConnection(username,password,engine,host,port)
-                    data = RedshiftConnection.read_redshift_keras(redshift)
+                    data = RedshiftConnection.read_redshift_data_booking(redshift)
                     print("Passing redshift data to train the model")
                     print(data)
-                    keras = KerasModelImplementation()
+                    keras = KerasModelImplementationBooking()
                     processed_data = keras.data_processing(data)
                     print("Data Preprocessing Completed")
                     X_train,X_test,y_train,y_test = keras.train_test_split(processed_data)
@@ -39,13 +40,32 @@ if __name__=="__main__":
                     model_outcome_df = keras.process_model_outcome(data,y_test_pred,username)
                     print('Model outcome data - ',model_outcome_df)
                     print("Successfully Model implemented")
-                    RedshiftConnection.write_keras_redshift(redshift,model_outcome_df)
+                    RedshiftConnection.write_redshift_booking(redshift,model_outcome_df)
                     print("Model Outcome successfully inserted into redshift")
                     
                 elif sys.argv[2].upper()=="REVENUE":
-                    data = RedshiftConnection.read_redshift_data(redshift)
+                    redshift = RedshiftConnection(username,password,engine,host,port)
+                    print("Redshift Connection Established")
+                    #Truncate table with model name as keras
+                    truncate = RedshiftConnection.truncate_table_revenue(redshift,"KERAS")
+                    print("Data has been truncated successfully")
+                    redshift = RedshiftConnection(username,password,engine,host,port)
+                    data = RedshiftConnection.read_redshift_data_revenue(redshift)
                     print("Passing redshift data to train the model")
-                    print(data)
+
+                    keras = KerasModelImplementationRevenue()
+                    processed_data = keras.data_processing(data)
+                    print("Data Preprocessing Completed")
+                    X_train,X_test,y_train,y_test = keras.train_test_split(processed_data)
+                    print("Test, Train data splitted")
+                    trained_model = keras.train_model(X_train,y_train)
+                    y_test_pred = keras.predict_model(trained_model,X_test)
+                    print("Successfully Model implemented")
+                    model_outcome_df = keras.process_model_outcome(data,y_test_pred,username)
+                    print('Model outcome data - ',model_outcome_df)
+                    #Add missing column values - number_of_booking,region,roundtrip_or_oneway
+                    RedshiftConnection.write_redshift_revenue(redshift,model_outcome_df)
+                    print("Model Outcome successfully inserted into redshift")
                       
             elif sys.argv[1]=="ARIMA":
                 if sys.argv[2]=="BOOKING":

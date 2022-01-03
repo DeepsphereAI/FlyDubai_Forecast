@@ -18,20 +18,6 @@ class RedshiftConnection:
         self.port = port
         self.connection = create_engine('postgresql://'+username+':'+passw+'@'+host+':'+str(port)+'/dev').connect()
 
-        
-        
-    def write_keras_redshift(self,dataframe):
-        val = dataframe.to_sql('flydubai_fact_transaction_booking', self.connection, schema='ds_ai_fd_schema',index=False, if_exists ='append')
-        self.connection.close()
-        
-        
-    def read_redshift_keras(self):
-        dataframe = pd.read_sql('''select product_type,customer_type,date,year,quarter,month,week,day,hour,flight,origin,destination,location_lifestyle,
-location_economical_status,location_employment_status,location_event,
-number_of_booking,capacity,source_precipitation,destination_precipitation,substring(source_wind,1,4) as source_wind,substring(destination_wind,1,4) as destination_wind,
-substring(source_humidity,1,2) as source_humidity,substring(destination_humidity,1,2) as destination_humidity,promotion,price_type
-from ds_ai_fd_schema.flydubai_fact_transaction_booking where model_name='NA' limit 1000''',self.connection)
-        return dataframe
 
     def write_redshift_booking(self,dataframe):
         val = dataframe.to_sql('flydubai_fact_transaction_booking_v3', self.connection, schema='ds_ai_fd_schema',index=False, if_exists ='append')
@@ -41,13 +27,14 @@ from ds_ai_fd_schema.flydubai_fact_transaction_booking where model_name='NA' lim
         val = dataframe.to_sql('flydubai_fact_transaction_revenue_v3', self.connection, schema='ds_ai_fd_schema',index=False, if_exists ='append')
         self.connection.close()
 
-
     def read_redshift_data_booking(self):
-        dataframe = pd.read_sql('''select data_category,data_source,model_name,travel_date,year,quarter,month,week,day,hour,region,origin,destination,flight,capacity,price_type,promotion,roundtrip_or_oneway,customer_type,product_type,location_lifestyle,location_economical_status,location_employment_status,location_event,source_wind,source_humidity,source_precipitation,destination_wind,destination_humidity,destination_precipitation,number_of_booking,date,model_accuracy,accuracy_probability from ds_ai_fd_schema.flydubai_fact_transaction_booking_v3 where model_name = 'NA' ''',self.connection)
+        dataframe = pd.read_sql('''select data_category,data_source,model_name,travel_date,year,quarter,month,week,day,hour,region,origin,destination,flight,capacity,price_type,promotion,roundtrip_or_oneway,customer_type,product_type,location_lifestyle,location_economical_status,location_employment_status,location_event,source_precipitation,substring(source_wind,1,4) as source_wind,substring(destination_wind,1,4) as destination_wind,
+substring(source_humidity,1,2) as source_humidity,substring(destination_humidity,1,2) as destination_humidity,destination_precipitation,number_of_booking,date,model_accuracy,accuracy_probability from ds_ai_fd_schema.flydubai_fact_transaction_booking_v3 where data_category='ACTUAL' ''',self.connection)
         return dataframe
 
     def read_redshift_data_revenue(self):
-        dataframe = pd.read_sql('''select data_category,data_source,model_name,travel_date,year,quarter,month,week,day,hour,region,origin,destination,flight,capacity,price_type,promotion,roundtrip_or_oneway,customer_type,product_type,location_lifestyle,location_economical_status,location_employment_status,location_event,source_wind,source_humidity,source_precipitation,destination_wind,destination_humidity,destination_precipitation,number_of_booking,currency,revenue,date,model_accuracy,accuracy_probability from ds_ai_fd_schema.flydubai_fact_transaction_revenue_v3 where model_name = 'NA' ''',self.connection)
+        dataframe = pd.read_sql('''select data_category,data_source,model_name,travel_date,year,quarter,month,week,day,hour,region,origin,destination,flight,capacity,price_type,promotion,roundtrip_or_oneway,customer_type,product_type,location_lifestyle,location_economical_status,location_employment_status,location_event,source_precipitation,substring(source_wind,1,4) as source_wind,substring(destination_wind,1,4) as destination_wind,
+substring(source_humidity,1,2) as source_humidity,substring(destination_humidity,1,2) as destination_humidity,destination_precipitation,number_of_booking,currency,revenue,date,model_accuracy,accuracy_probability from ds_ai_fd_schema.flydubai_fact_transaction_revenue_v3 where data_category='ACTUAL' ''',self.connection)
         return dataframe
     
     def truncate_table_booking(self,model_name):
