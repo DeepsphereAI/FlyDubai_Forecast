@@ -67,8 +67,8 @@ if __name__=="__main__":
                     RedshiftConnection.write_redshift_revenue(redshift,model_outcome_df)
                     print("Model Outcome successfully inserted into redshift")
                       
-            elif sys.argv[1]=="ARIMA":
-                if sys.argv[2]=="BOOKING":
+            elif sys.argv[1].upper()=="ARIMA":
+                if sys.argv[2].upper()=="BOOKING":
                     redshift = RedshiftConnection(username,password,engine,host,port)
                     print("Redshift Connection Established")
                     #Truncate table with datasource as model
@@ -81,14 +81,16 @@ if __name__=="__main__":
                     arima = ArimaImplementation()
                     processed_data = arima.Datapreprocessing(data)
                     print("Data Preprocessing Completed")
-                    test_data = arima.Model_train_booking(processed_data)
-                    print('Model outcome data - ',test_data)
+                    Pred,test_data = arima.Model_train_booking(processed_data)
+                    print('Model outcome data - ',Pred)
+                    finaldf = arima.AccuracyBooking(Pred,test_data)
+                    print('Model outcome data - ',finaldf)
 #                     outcome = arima.Model_outcome(data,arima_pred,username)
                     
-                    RedshiftConnection.write_redshift_booking(redshift,test_data)
+                    RedshiftConnection.write_redshift_booking(redshift,finaldf)
                     print("Model Outcome successfully inserted into redshift")
 
-                elif sys.argv[2]=="REVENUE":
+                elif sys.argv[2].upper()=="REVENUE":
                     redshift = RedshiftConnection(username,password,engine,host,port)
                     print("Redshift Connection Established")
                     #Truncate table with datasource as model
@@ -101,11 +103,13 @@ if __name__=="__main__":
                     arima = ArimaImplementation()
                     processed_data = arima.Datapreprocessing(data)
                     print("Data Preprocessing Completed")
-                    test_data = arima.Model_train_revenue(processed_data)
-                    print('Model outcome data - ',test_data)
+                    Pred,test_data = arima.Model_train_revenue(processed_data)
+                    print('Model outcome data - ',Pred)
+                    finaldf = arima.AccuracyRevenue(Pred,test_data)
+                    print('Model outcome data - ',finaldf)
 #                     outcome = arima.Model_outcome(data,arima_pred,username)
                     
-                    RedshiftConnection.write_redshift_revenue(redshift,test_data)
+                    RedshiftConnection.write_redshift_revenue(redshift,finaldf)
                     print("Model Outcome successfully inserted into redshift")
 
                     #Model Implementation
@@ -131,8 +135,8 @@ if __name__=="__main__":
 #                     #df = pd.DataFrame({'description':['GBP','YEN'],'id':[3,4]})
 #                     #data2 = RedshiftConnection.write_redshift(redshift,df)
                     
-            elif sys.argv[1]=="PROPHET":
-                if sys.argv[2]=="BOOKING":
+            elif sys.argv[1].upper()=="PROPHET":
+                if sys.argv[2].upper()=="BOOKING":
                     redshift = RedshiftConnection(username,password,engine,host,port)
                     print("Redshift Connection Established")
                     #Truncate table with datasource as model
@@ -150,7 +154,7 @@ if __name__=="__main__":
                     RedshiftConnection.write_redshift_booking(redshift,pred)
                     print("Model Outcome successfully inserted into redshift")
                     
-                elif sys.argv[2]=="REVENUE":
+                elif sys.argv[2].upper()=="REVENUE":
                     redshift = RedshiftConnection(username,password,engine,host,port)
                     print("Redshift Connection Established")
                     #Truncate table with datasource as model

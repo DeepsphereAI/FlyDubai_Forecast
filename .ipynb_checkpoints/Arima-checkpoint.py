@@ -29,7 +29,7 @@ class ArimaImplementation:
 #             print(data1)
             train_data = data1[:len(data1)-50]
             test_data = data1[len(data1)-50:]
-            print(test_data,test_data.columns)
+#             print(test_data,test_data.columns)
             arima_model = SARIMAX(train_data['number_of_booking'], order = (2,1,1), seasonal_order = (1,1,1,12))
             arima_result = arima_model.fit()
             arima_pred = arima_result.predict(start = len(train_data), end = len(data1)-1, typ="levels").rename("number_of_booking")
@@ -42,25 +42,22 @@ class ArimaImplementation:
 #             data['created_at'] = pd.Timestamp.now()
 
             test_data = test_data.reset_index()
-            test_data = test_data.drop(['number_of_booking'], axis=1)
-            test_data = pd.concat([test_data, pd.DataFrame(arima_pred, columns=['number_of_booking']).reset_index(drop=True)], axis=1)
+            test_data1 = test_data.drop(['number_of_booking'], axis=1)
+            Pred = pd.concat([test_data, pd.DataFrame(arima_pred, columns=['number_of_booking']).reset_index(drop=True)], axis=1)
 #            test_data['number_of_booking'] = arima_pred
-            test_data['model_name'] = 'ARIMA'
-            test_data['data_source'] = 'MODEL'
-            test_data['data_category'] = 'FORECAST'
+            Pred['model_name'] = 'ARIMA'
+            Pred['data_source'] = 'MODEL'
+            Pred['data_category'] = 'FORECAST'
             #Add date,booking,model_accuracy,model_prob
-            print("len(test_data)",len(test_data))
-            print(test_data)
-            return test_data
+            print("len(test_data)",len(Pred))
+            print(Pred)
+            return Pred,test_data
 
         
     def Model_train_revenue(self,data1):
 #             print(data1)
             train_data = data1[:len(data1)-50]
             test_data = data1[len(data1)-50:]
-            print(test_data.dtypes)
-            print(train_data.dtypes)
-            print(test_data,train_data)
             arima_model = SARIMAX(train_data['revenue'].astype(float), order = (2,1,1), seasonal_order = (1,1,1,12))
             arima_result = arima_model.fit()
             arima_pred = arima_result.predict(start = len(train_data), end = len(data1)-1, typ="levels").rename("revenue")
@@ -73,26 +70,55 @@ class ArimaImplementation:
 #             data['created_at'] = pd.Timestamp.now()
 
             test_data = test_data.reset_index()
-            test_data = test_data.drop(['revenue'], axis=1)
-            test_data = pd.concat([test_data, pd.DataFrame(arima_pred, columns=['revenue']).reset_index(drop=True)], axis=1)
+            test_data1 = test_data.drop(['revenue'], axis=1)
+            Pred = pd.concat([test_data1, pd.DataFrame(arima_pred, columns=['revenue']).reset_index(drop=True)], axis=1)
 #            test_data['number_of_booking'] = arima_pred
-            test_data['model_name'] = 'ARIMA'
-            test_data['data_source'] = 'MODEL'
-            test_data['data_category'] = 'FORECAST'
+            Pred['model_name'] = 'ARIMA'
+            Pred['data_source'] = 'MODEL'
+            Pred['data_category'] = 'FORECAST'
             #Add date,booking,model_accuracy,model_prob
-            test_data['revenue'] = test_data['revenue'].astype(float).astype(int)
-            print("len(test_data)",len(test_data))
-            print(test_data)
-            return test_data
+            Pred['revenue'] = Pred['revenue'].astype(float).astype(int)
+            print("len(test_data)",len(Pred))
+            print(Pred)
+            return Pred,test_data
         
         
-    def Accuracy(self,test_data,arima_pred): 
-            arima_rmse_error = rmse(test_data['booking'], arima_pred)
-            arima_mse_error = arima_rmse_error**2
-#             mean_value = df['booking'].mean()
+    def AccuracyRevenue(self,Pred,test_data): 
+            accdf = pd.concat([Pred,test_data['revenue']],axis = 1)
+            accdf.columns= ['date', 'data_category', 'data_source', 'model_name', 'travel_date','year', 'quarter', 'month', 'week', 'day', 'hour', 'region', 'origin','destination', 'flight', 'capacity', 'price_type', 'promotion','roundtrip_or_oneway', 'customer_type', 'product_type','location_lifestyle', 'location_economical_status','location_employment_status', 'location_event', 'source_precipitation', 'source_wind', 'destination_wind', 'source_humidity','destination_humidity', 'destination_precipitation', 'number_of_booking', 'currency', 'model_accuracy','accuracy_probability', 'revenue', 'revenue_actual']
+#            accdf['model_accuracy'] = ((accdf['revenue_actual'].astype(float).astype(int) - accdf['revenue'])**2).mean(0)**.5
+#            accdf['model_accuracy'] = ((accdf['revenue_actual'].astype(float).astype(int).subtract(accdf['revenue']))**2).mean()**.5
+#             accdf['model_accuracy'] = np.sqrt(((accdf['revenue_actual'].astype(float).astype(int) - accdf['revenue'])**2).expanding().mean())
+            accdf['model_accuracy'] = (accdf['revenue'] - accdf['revenue_actual'].astype(float).astype(int)).abs().mean()/accdf['revenue_actual'].astype(float).astype(int).abs()
+            accdf['model_accuracy'] = 1.00 - accdf['model_accuracy']
 
-            print(f'MSE Error: {arima_mse_error}\nRMSE Error: {arima_rmse_error}\nMean: {mean_value}')
-            test_data['ARIMA_Predictions'] = arima_pred
-    #         print(f"Mean: {test_data['Revenue'].mean()}")
-            errors = pd.DataFrame({"Models" : ["ARIMA"],"RMSE Errors" : arima_rmse_error, "MSE Errors" : arima_mse_error})
-            print(errors)
+    #np.mean(np.abs(forecast - actual)/np.abs(actual))
+            accdf['model_accuracy'] = accdf['model_accuracy'].astype(float).round(2)
+            finaldf = accdf[['date', 'data_category', 'data_source', 'model_name', 'travel_date','year', 'quarter', 'month', 'week', 'day', 'hour', 'region', 'origin','destination', 'flight', 'capacity', 'price_type', 'promotion','roundtrip_or_oneway', 'customer_type', 'product_type','location_lifestyle', 'location_economical_status','location_employment_status', 'location_event', 'source_precipitation', 'source_wind', 'destination_wind', 'source_humidity','destination_humidity', 'destination_precipitation', 'number_of_booking', 'currency', 'model_accuracy','accuracy_probability', 'revenue']]
+            
+            return finaldf
+        
+    def AccuracyBooking(self,Pred,test_data): 
+            accdf = pd.concat([Pred,test_data['number_of_booking']],axis = 1)
+            print(accdf.columns)
+            accdf.columns= [['date', 'data_category', 'data_source', 'model_name', 'travel_date',
+       'year', 'quarter', 'month', 'week', 'day', 'hour', 'region', 'origin',
+       'destination', 'flight', 'capacity', 'price_type', 'promotion',
+       'roundtrip_or_oneway', 'customer_type', 'product_type',
+       'location_lifestyle', 'location_economical_status',
+       'location_employment_status', 'location_event', 'source_precipitation',
+       'source_wind', 'destination_wind', 'source_humidity',
+       'destination_humidity', 'destination_precipitation',
+       'number_of_booking', 'model_accuracy', 'accuracy_probability',
+       'number_of_booking', 'number_of_booking']]
+#            accdf['model_accuracy'] = ((accdf['revenue_actual'].astype(float).astype(int) - accdf['revenue'])**2).mean(0)**.5
+#            accdf['model_accuracy'] = ((accdf['revenue_actual'].astype(float).astype(int).subtract(accdf['revenue']))**2).mean()**.5
+            accdf['model_accuracy'] = (accdf['number_of_booking'] - accdf['number_of_booking_actual'].astype(float).astype(int)).abs().mean()/accdf['number_of_booking_actual'].astype(float).astype(int).abs()
+            accdf['model_accuracy'] = 1.00 - accdf['model_accuracy']
+
+    #np.mean(np.abs(forecast - actual)/np.abs(actual))
+            accdf['model_accuracy'] = accdf['model_accuracy'].astype(float).round(2)
+            finaldf = accdf[['date', 'data_category', 'data_source', 'model_name', 'travel_date','year', 'quarter', 'month', 'week', 'day', 'hour', 'region', 'origin','destination', 'flight', 'capacity', 'price_type', 'promotion','roundtrip_or_oneway', 'customer_type', 'product_type','location_lifestyle', 'location_economical_status','location_employment_status', 'location_event', 'source_precipitation', 'source_wind', 'destination_wind', 'source_humidity','destination_humidity', 'destination_precipitation', 'number_of_booking', 'currency', 'model_accuracy','accuracy_probability']]
+            
+            return finaldf
+        
